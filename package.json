@@ -1,0 +1,23 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "\u001b[2~\u001b[2~Test environment to learn to make a rest api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timostrating/rest-api.git"
+  },
+  "author": "Timo Strating",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/timostrating/rest-api/issues"
+  },
+  "homepage": "https://github.com/timostrating/rest-api#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "morgan": "^1.7.0"
+  }
+}
