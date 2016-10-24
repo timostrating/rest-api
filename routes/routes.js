@@ -46,7 +46,7 @@ router.delete("/:id/answers/:aID", function(req, res) {
 	res.json({
 		response: "You sent me a DELETE request to /answer",
 		questionID: req.params.qID,
-		answerID: req.params.aID,
+		answerID: req.params.aID
 	});
 });
 
